@@ -1,0 +1,1 @@
+# Space-O-Swifty-Json-in-Swift-4.
